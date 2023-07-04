@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+.background {
+    background-image: linear-gradient(transparent, 10%, black),
+    url(/img/capa/dungeon-ni-deai-capa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+
+.anime-page {
+    width: 120vh;
+    height: auto;
+    border-color: solid 2px red;
+}
